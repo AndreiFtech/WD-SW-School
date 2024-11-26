@@ -1,0 +1,31 @@
+.container-nav{
+    background-color: rgb(32, 107, 32);
+}
+.body{
+    background-color: #ffffff;
+}
+.section-1{
+    border: 5px solid rgb(77, 77, 77);
+    margin-top: 5vh;
+}
+.section-2{
+    border: 5px solid rgb(77, 77, 77);
+    margin-top: 5vh;
+}
+.section-3{
+    border: 5px solid rgb(77, 77, 77);
+    margin-top: 5vh;
+}
+.section-4{
+    border: 5px solid rgb(77, 77, 77);
+    margin-top: 5vh;
+    margin-bottom: 5vh;
+}
+.centered {
+    text-align: center; /* Horizontally centers the image */
+  }
+  
+  img {
+    max-width: 100%;
+    height: auto;
+  }
