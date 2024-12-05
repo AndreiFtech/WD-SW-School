@@ -9,11 +9,11 @@
     <img src="assets/img/piyutekhatdog.jpg" alt="tek" width="120" height="150">
   </a>
 <!-- TODO: Change Title to the name of the title of your Project -->
-  <h3 align="center">Title</h3>
+  <h3 align="center">FEU Institute of Technology</h3>
 </div>
 <!-- TODO: Make a short description -->
 <div align="center">
-  Short Description. (Optional)
+  University School near FEU Main
 </div>
 
 <br />
