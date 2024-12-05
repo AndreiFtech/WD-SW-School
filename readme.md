@@ -62,10 +62,10 @@
 Description of the project in details.
 
 Guiding Question:
-- What is the project
-- Whats the purpose
-- What are key components
-- What technology used and how it is used
+- What is the project? <br> The project I made is similar to the official school page of FEU Tech that shows the <br> directors and teachers. It also shows the telephone number of the school. 
+- Whats the purpose? <br> The purpose of this website is to show the students what type of school is FEU Tech.
+- What are key components? <br> The key components I used in this website is MultiPage website showing the Home, About, <br> Phone Number, and the History of School.
+- What technology used and how it is used? <br> The technology I used here is VS Code and Bootstrap.
 
 ### Key Components
 <!-- TODO: List of Key Components -->
@@ -119,4 +119,4 @@ WD-ProjectName
 <!-- TODO: Add References -->
 | Title | Purpose | Link |
 |-|-|-|
-| Sample Title | Sample purpose would be here like this and this is the example of what it is. | trykolang.com |
+| FEU Tech | To show the students of how the FEU Tech looks like | https://andreiftech.github.io/WD-SW-School/ |
